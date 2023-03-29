@@ -1,4 +1,4 @@
-<img alt="Bar" width="100%" src="https://raw.githubusercontent.com/Artursrossi/Artursrossi/main/src/bar.png">
+<img alt="Bar" width="100%" src="https://github.com/Artursrossi/Artursrossi/blob/master/src/bar.png">
 
 ## Artur Schincariol Rossi
 
@@ -27,4 +27,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Artursrossi&layout=compact&theme=vision-friendly-dark" alt="Artursrossi Stats"/>
 </div>
 
-<img alt="Bar" width="100%" src="https://raw.githubusercontent.com/Artursrossi/Artursrossi/main/src/bar.png">
+<img alt="Bar" width="100%" src="https://github.com/Artursrossi/Artursrossi/blob/master/src/bar.png">
