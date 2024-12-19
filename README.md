@@ -5,7 +5,7 @@
 <div> 
   <a href="https://artursrossi.com.br/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-8257e5?style=for-the-badge&logo=devdotto&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/artursrossi/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:artursrossi4@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
+  <a href="mailto:schincariolartur@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
 </div>
 
 #
